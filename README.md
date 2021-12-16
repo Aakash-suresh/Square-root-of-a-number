@@ -27,7 +27,7 @@ def sqrt():
 sqrt()
 
 ## Output:
-![gcd of two number](AAA.png)
+![Output 1](AAA.png)
 
 
 ## Result:
